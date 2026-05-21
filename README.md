@@ -2,7 +2,7 @@
 
 **A premium toast notification engine built for professional fintech dashboards and crypto trading terminals.**
 
-![ToastEngine Banner]([https://via.placeholder.com/1200x400?text=ToastEngine+Hero+Image+or+Demo+GIF](https://ibb.co/Q7Vv0HHh))
+![ToastEngine Banner](https://ibb.co/Q7Vv0HHh)
 
 ### Professional-grade notifications with sound, sparklines, inbox, and more.
 
