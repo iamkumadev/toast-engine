@@ -2,7 +2,7 @@
 
 **A premium toast notification engine built for professional fintech dashboards and crypto trading terminals.**
 
-![ToastEngine Banner](https://ibb.co/Q7Vv0HHh)
+![ToastEngine Banner](https://i.ibb.co/7xDthppB/Toast-Engine2.png)
 
 ### Professional-grade notifications with sound, sparklines, inbox system, and more.
 
@@ -10,8 +10,9 @@
 
 ## Preview
 
-![ToastEngine Preview 1](https://ibb.co/9mxXJDLM)
-![ToastEngine Preview 2](https://ibb.co/Y7dwXvcB)
+![ToastEngine Preview 1](https://i.ibb.co/nqX2TGvW/Toast-Engine3.png)
+
+![ToastEngine Preview 2](https://i.ibb.co/5Wjwkqrh/Toast-Engine4.png)
 
 ## Why ToastEngine?
 
